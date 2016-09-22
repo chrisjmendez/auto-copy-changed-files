@@ -1,0 +1,19 @@
+{
+  "name": "copycat",
+  "version": "1.0.0",
+  "description": "App that watches which files were changed and copies them over to another direcory.",
+  "main": "app.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.9",
+    "nodemon": "^1.10.2",
+    "parse-filepath": "^1.0.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Chris Mendez",
+  "license": "MIT"
+}
